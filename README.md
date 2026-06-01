@@ -36,7 +36,7 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: Your LinkedIn Link
-- Instagram: Your Instagram Link
+- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/upesh-sahu-044305327/)
+- Instagram: [Your Instagram Link](https://www.instagram.com/upesh_sahu796/)
 
 ⭐ "Code. Design. Lead. Grow."
