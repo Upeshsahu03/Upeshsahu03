@@ -1,42 +1,125 @@
-<h1 align="center">Hi 👋, I'm Upesh Kumar Sahu</h1>
-<h3 align="center">Frontend Developer | UI/UX Designer | DSA Enthusiast</h3>
+Hi there 👋, I'm Upesh Kumar Sahu
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Upeshsahu03&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+Backend Developer | Software Engineering Student | Open Source Contributor
 
-## 🚀 About Me
+🚀 Passionate about building scalable backend systems, APIs, and full-stack applications. I enjoy solving real-world problems using modern technologies and contributing to open-source projects.
 
-- 💻 Frontend Developer passionate about building modern web applications
-- 🎨 UI/UX Designer focused on creating user-friendly interfaces
-- 📚 DSA Enthusiast constantly improving problem-solving skills
-- 👨‍💼 Leadership & Event Management Experience
-- 🌱 Currently learning Advanced React and Full-Stack Development
+---
 
-## 🛠️ Tech Stack
+👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 B.Tech in Computer Science & Engineering at Rungta College of Engineering and Technology (2024–2028)
+- 💼 Backend-focused Software Engineering Student
+- 🌱 Open Source Contributor at GirlScript Summer of Code (GSSoC) 2026
+- ☁️ Interested in Cloud Computing, AI, and Distributed Systems
+- 🧩 Strong problem-solving skills with Data Structures & Algorithms in C++
+- 🤝 Passionate about mentoring and community building through hackathons and workshops
 
-## 📊 GitHub Stats
+---
 
-![Upesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upeshsahu03&show_icons=true&theme=tokyonight)
+🛠️ Tech Stack
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Upeshsahu03&theme=tokyonight)
+Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upeshsahu03&layout=compact&theme=tokyonight)
+- JavaScript (ES6+)
+- C
+- C++
+- SQL
+- Bash
 
-## 🏆 GitHub Trophies
+Frontend
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Upeshsahu03&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Design
 
-## 🌐 Connect With Me
+Backend
 
-- LinkedIn: Your LinkedIn Link
-- Instagram: Your Instagram Link
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- OAuth 2.0
 
-⭐ "Code. Design. Lead. Grow."
+Databases & Tools
+
+- MongoDB
+- PostgreSQL
+- Redis
+- Docker
+- Git & GitHub
+- Postman
+- Vercel
+- Render
+
+---
+
+🚀 Featured Projects
+
+🏥 VitalisAI – Privacy-First Clinical Triage Backend
+
+Tech Stack: Node.js, Express.js, Azure AI Foundry, WebRTC
+
+- Developed an AI-powered symptom triage backend.
+- Implemented location-aware healthcare responses.
+- Designed an end-to-end encrypted synchronization layer using WebRTC and Azure Blob Storage.
+- Supported secure processing with zero plaintext medical data storage.
+
+---
+
+✈️ YatraSangam – Cultural Travel Companion
+
+Tech Stack: React.js, Firebase, Tailwind CSS, REST APIs
+
+- Built a personalized travel planning platform.
+- Integrated cultural etiquette guidance and local guide connections.
+- Developed a responsive PWA-ready frontend with offline support.
+
+🔗 Live Demo: https://yatrasangam2025.web.app/
+
+---
+
+🌟 Open Source Contributions
+
+GirlScript Summer of Code (GSSoC) 2026
+
+- Contributed to Node.js and Express.js based projects.
+- Fixed bugs and implemented backend API features.
+- Successfully merged multiple pull requests involving:
+  - REST API enhancements
+  - Backend logic improvements
+  - Code refactoring
+
+---
+
+🏆 Certifications & Achievements
+
+- Microsoft Applied Skills – Generate Reports with AI Research Agents (2026)
+- Azure & GitHub Copilot Workshop – Microsoft Learn Student Ambassador
+- Google Gemini Academy – Generative AI Tools & Applications
+- Open Source Contributor Recognition – OSCG 2026
+- Participant – Agentic AI Hackathon by Azure Developer Community
+
+---
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: upkumarsahu427@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/upesh-kumar-sahu
+- 🖥️ GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+💡 Motto
+
+«"Building scalable solutions, contributing to open source, and continuously learning emerging technologies."»
